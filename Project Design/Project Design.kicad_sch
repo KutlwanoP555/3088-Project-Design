@@ -1,0 +1,21 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid c9e217fd-79a4-4d9e-9619-03245161d78d)
+
+  (paper "A4")
+
+  (title_block
+    (title "EEE3088F Project Design Power module")
+    (date "2025-03-19")
+    (rev "V0.0")
+    (company "University of Cape Town")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
