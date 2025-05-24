@@ -1,7 +1,7 @@
-****Reposotory for a power subsystem****
+**** Repository for a power subsystem****
 
 Group 127 
-EEE3088F Design principals
+EEE3088F Design principles
 
 
 
@@ -31,7 +31,7 @@ To meet the course requirements, the power subsystem must achieve the following:
   - 5V @ 1.5 A max ±5% accuracy
 - ✅ **Include an ON/OFF switch**:
   - OFF: Leakage current < 30 μA
-  - ON: Must deliver up to 2 A peak current
+  - ON: Must handle up to 2 A peak current
   - Must shut down both 5V and 3.3V rails
 
 ---
